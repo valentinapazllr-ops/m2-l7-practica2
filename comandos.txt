@@ -1,0 +1,14 @@
+1.Cuando iniciamos proyecto nuevo ejecutamos:
+git init
+
+2.agregar cambio al documento 
+git add. 
+
+3. Se agrega el siguiente comando 
+git commit -m "nombre del proyecto"
+
+4.Agregar nuevo proyecto a GitHub 
+git@github.com:valentinapazllr-ops/m2-l7-practica2.git
+git branch -m main
+
+
